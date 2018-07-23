@@ -4,6 +4,7 @@
 /storage/*.key
 /vendor
 /db-dumps
+/db-dumps1
 /.idea
 /.vscode
 /.vagrant
