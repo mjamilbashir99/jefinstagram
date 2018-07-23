@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/db-dumps
 /.idea
 /.vscode
 /.vagrant
@@ -10,5 +11,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-db-dumps/
+
 .env
